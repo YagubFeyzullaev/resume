@@ -69,12 +69,9 @@ a:active {
     margin-left: 0;
     width: inherit;
   }
-}
-.avatar {
-  margin-bottom: 20px;
-}
-.container {
-  max-width: 100%;
+  .avatar {
+    margin-bottom: 20px;
+  }
 }
 
 .btn-container {
